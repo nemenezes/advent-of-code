@@ -1,4 +1,7 @@
-"""Day 1: Sonar Sweep"""
+"""
+Day 1: Sonar Sweep
+Calculate differences from previous day - then differences in rolling 3-day sum.
+"""
 import pandas as pd
 
 UNDEFINED = "undefined"
